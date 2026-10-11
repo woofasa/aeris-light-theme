@@ -1,8 +1,8 @@
-# omarchy-aeris-light-theme
+# aeris-light-theme
 
 Light variant of the Aeris theme for [Omarchy](https://omarchy.org/): the
 pink and cyan accents of
-[omarchy-aeris-theme](https://github.com/woofasa/omarchy-aeris-theme), darkened
+[aeris-dark-theme](https://github.com/woofasa/aeris-dark-theme), darkened
 for readable text on a warm off-white background.
 
 ![Desktop with the Aeris Light theme: Neovim dashboard, system info and bar](preview.png)
@@ -10,7 +10,7 @@ for readable text on a warm off-white background.
 ## Installation
 
 ```sh
-omarchy theme install https://github.com/woofasa/omarchy-aeris-light-theme.git
+omarchy theme install https://github.com/woofasa/aeris-light-theme.git
 ```
 
 The theme is applied immediately. When installing from a git repository,
