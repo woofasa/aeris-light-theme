@@ -1,0 +1,13 @@
+[bar]
+background = "#fbf9f4"
+text = "#1c1c1c"
+
+[menu]
+background = "#fbf9f4"
+text = "#1c1c1c"
+border = "rgba(a3365fff) rgba(0b7268ff) 45deg"
+border-width = 1
+selected-border-width = 0
+selected-text = "#1c1c1c"
+[spacing]
+scale = 0.8
