@@ -5,6 +5,8 @@ pink and cyan accents of
 [omarchy-aeris-theme](https://github.com/woofasa/omarchy-aeris-theme), darkened
 for readable text on a warm off-white background.
 
+![Desktop with the Aeris Light theme: Neovim dashboard, system info and bar](preview.png)
+
 ## Installation
 
 ```sh
@@ -35,7 +37,7 @@ cp "$T/looknfeel.lua" ~/.config/hypr/looknfeel.lua
 hyprctl reload
 ```
 
-Requires LazyVim and network access to GitHub for the `woofasa/aeris-light-nvim`
+Requires LazyVim and network access to GitHub for the `woofasa/aeris-light.nvim`
 plugin.
 
 ## Contents
